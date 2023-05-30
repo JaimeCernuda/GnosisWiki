@@ -13,3 +13,12 @@ export SCS_TUTORIAL=[/path/to/scs-tutorial]
 
 If you don't know what an environment variable is, read
 section 1.
+
+Contents
+--------
+
+.. toctree::
+
+   Home <self>
+   Linux Introduction
+   Installing HPC Software

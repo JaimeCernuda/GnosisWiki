@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Gnosis Wiki'
+copyright = '2023, Gnosis Research Center'
+author = 'Gnosis Research Center'
 
 release = '0.1'
 version = '0.1.0'
