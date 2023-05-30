@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the scs-tutorial wiki!
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This repo is a brief tutorial on various HPC technologies useful to our research. The
+[wiki](https://github.com/scs-lab/scs-tutorial/wiki) contains the
+step-by-step details on how to interpret this repo and follow along.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+## The SCS_TUTORIAL environment variable
+For making experiments easier to setup, set the SCS_TUTORIAL environment
+variable to the location of the scs-tutorial github on your machine.
+```bash
+export SCS_TUTORIAL=[/path/to/scs-tutorial]
+```
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+If you don't know what an environment variable is, read
+section 1.
