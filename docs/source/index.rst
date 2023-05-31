@@ -21,5 +21,5 @@ Contents
 .. toctree::
 
    Home <self>
-   Linux Introduction <Linux-Introduction>
-   Installing HPC Software <Installing-HPC-Software>
+   Linux Introduction <Linux-Introduction.rst>
+   Installing HPC Software <Installing-HPC-Software.rst>
