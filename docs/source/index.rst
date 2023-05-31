@@ -1,4 +1,5 @@
-Welcome to the scs-tutorial wiki!
+Welcome to the Gnosis research center tutorial wiki!
+===================================
 
 This repo is a brief tutorial on various HPC technologies useful to our research. The
 [wiki](https://github.com/scs-lab/scs-tutorial/wiki) contains the
@@ -10,9 +11,9 @@ variable to the location of the scs-tutorial github on your machine.
 ```bash
 export SCS_TUTORIAL=[/path/to/scs-tutorial]
 ```
+.. note::
 
-If you don't know what an environment variable is, read
-section 1.
+    If you don't know what an environment variable is, read section 1.
 
 Contents
 --------
