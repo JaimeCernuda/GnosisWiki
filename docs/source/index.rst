@@ -9,9 +9,11 @@ Contents
 --------
 .. toctree::
     :caption: Old content
+    :maxdepth: 2
     old/old-usage
 
 .. toctree::
     :caption: Intro to Linux
+    :maxdepth: 2
     linux/linux
 
