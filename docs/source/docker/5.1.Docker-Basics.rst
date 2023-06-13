@@ -1,3 +1,7 @@
+******
+Docker
+******
+
 This is a brief guide on how to use Docker. Docker is a containerization
 framework. Containers are used run multiple OSes at once without having
 to reboot or log out. There are many uses for containers: 1.

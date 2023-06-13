@@ -1,3 +1,10 @@
+********************
+Introduction to Git
+********************
+
+Introducxtion to GitHub
+=======================
+
 Version Control Systems (VCS) are used to manage code bases. In the SCS
 lab, we use GitHub for versioning.
 

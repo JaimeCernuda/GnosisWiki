@@ -1,5 +1,6 @@
-    5.2. Docker Clusters
-====================
+***************
+Docker Clusters
+***************
 
 It can be useful to create clusters of Docker images for purposes of
 continuous integration. In this section, we provide an example of
