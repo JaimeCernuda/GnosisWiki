@@ -19,9 +19,9 @@ Contents
 --------
 .. toctree::
     :caption: Old content
-    old/old-usage
+    old/old-usage.rst
 
 .. toctree::
     :caption: Intro to Linux
-    linux/linux
+    linux/linux.rst
 
