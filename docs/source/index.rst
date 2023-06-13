@@ -17,6 +17,9 @@ export SCS_TUTORIAL=[/path/to/scs-tutorial]
 
 Contents
 --------
+.. toctree::
+    :caption: Old content
+   old/old-usage
 
 .. toctree::
    :caption: Intro to Linux
