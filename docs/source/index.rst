@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the Gnosis research center tutorial wiki!
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+This repo is a brief tutorial on various HPC technologies useful to our research. The
+[wiki](https://github.com/scs-lab/scs-tutorial/wiki) contains step-by-step details on
+how to interpret this repo and follow along.
 
 Contents
 --------
+.. toctree::
+    :caption: Old content
+    :maxdepth: 2
+    Usage <old/old-usage>
 
 .. toctree::
+    :caption: Intro to Linux
+    :maxdepth: 2
+    Linux <linux/linux>
 
-   usage
-   api

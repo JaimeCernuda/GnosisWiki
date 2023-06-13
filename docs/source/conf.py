@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Gnosis Wiki'
+copyright = '2023, Gnosis Research Center'
+author = 'Gnosis Research Center'
 
 release = '0.1'
 version = '0.1.0'
@@ -19,13 +19,18 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
-intersphinx_disabled_domains = ['std']
-
 templates_path = ['_templates']
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+# source_suffix = ['.rst', '.md']
+# source_suffix = '.rst'
+#
+# # The encoding of source files.
+# # source_encoding = 'utf-8-sig'
+#
+# # The master toctree document.
+# master_doc = 'index'
 
 # -- Options for HTML output
 

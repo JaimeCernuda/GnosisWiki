@@ -1,0 +1,61 @@
+***********
+Hello World
+***********
+
+In this section, we will discuss some basic concepts of C++.
+
+3.4.1. Builtin Integer Types
+----------------------------
+
+C++ has a number of builtin integer types.
+
+.. code:: cpp
+
+   int main() {
+
+   }
+
+3.4.2. Sized Types
+------------------
+
+3.4.3. Structs
+--------------
+
+3.4.4. Conditional Statements
+-----------------------------
+
+3.4.5. Loop Statements
+----------------------
+
+3.4.6. Macros
+-------------
+
+3.4.7. Memory Allocation + Pointers
+-----------------------------------
+
+3.4.8. Files and I/O
+--------------------
+
+3.4.9. Functions & References
+-----------------------------
+
+3.4.10. Example: Kitchen Fire Investigation
+-------------------------------------------
+
+Pretend we are insurance auditors. We are investigating a kitchen fire
+which burned down a popular Chicago restaurant: O’leary Smoke House.
+Fortunately the entire city didn’t burn down this time.
+
+The restaurant had a smart thermometer which was tracking the
+temperature and carbon monoxide (CO) level of the kitchen. We want to
+analyze the dataset to determine the following: 1. When did the fire
+start and end? We assume the fire is started when the temperature is at
+least 80 Farenheit OR the CO level is 200ppm. 2. What was the average
+temperature during the fire? 3. What was the average CO level during the
+fire?
+
+The dataset contains atmospheric readings for every minute of the
+24-hour day. There are 1,440 minutes in a day. Each reading contains two
+entries: (Temperature, Carbon Monoxide).
+
+::
